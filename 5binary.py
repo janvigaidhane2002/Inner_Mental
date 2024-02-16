@@ -25,3 +25,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.blank{
+  color: red;
+}
